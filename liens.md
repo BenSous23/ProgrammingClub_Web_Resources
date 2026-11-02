@@ -25,6 +25,7 @@ Ressources classées par module du curriculum. Priorité au gratuit et au franco
 | Ressource | Type | Pourquoi |
 |---|---|---|
 | https://learngitbranching.js.org/?locale=fr_FR | Interactif | Meilleur outil pour comprendre branches/merge/rebase en jouant |
+| https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github | Cours | simple et accessible avec exercices pratiques intégrés |
 | https://git-scm.com/book/fr/v2 | Livre (FR) | Référence "Pro Git" officielle, chapitres 1–3 suffisent |
 | https://docs.github.com/fr | Docs (FR) | Pull requests, issues, GitHub Flow |
 | https://ohmygit.org/ | Jeu | Ludique pour les débutants purs |
@@ -58,6 +59,7 @@ Ressources classées par module du curriculum. Priorité au gratuit et au franco
 | Ressource | Type | Pourquoi |
 |---|---|---|
 | https://fr.javascript.info/ | Cours (FR) | Le meilleur cours JS moderne, progressif, gratuit |
+| https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript | Cours | Simple, progressif et pratique |
 | https://developer.mozilla.org/fr/docs/Web/JavaScript | Référence (FR) | Pour chercher une méthode précise |
 | https://fr.eloquentjavascript.net/ | Livre (FR) | Approfondissement, exercices solides |
 | https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ | Cours | Pratique guidée |
@@ -71,6 +73,7 @@ Ressources classées par module du curriculum. Priorité au gratuit et au franco
 
 | Ressource | Type | Pourquoi |
 |---|---|---|
+| https://openclassrooms.com/fr/courses/8710331-debutez-avec-react | Cours | Gratuit, intéressant pour les débutants |
 | https://fr.react.dev/learn | Docs officielles (FR) | Le tutoriel "Tic-tac-toe" + les guides hooks |
 | https://fullstackopen.com/fr/ | Cours (FR) | La référence : React + Node + API + tests, en français |
 | https://www.freecodecamp.org/learn/front-end-development-libraries/ | Cours | React + Redux + Sass |

@@ -1,0 +1,20 @@
+/* TODO 1 : change la couleur du texte du body */
+
+body {
+    color: blue ;
+}
+
+/* TODO 2 : change la taille du h1 et sa couleur */
+
+h1 {
+    font-size: 40px ;
+    color: red ;
+}
+
+/* TODO 3 : change la couleur du fond */
+
+body {
+    background: lightgray ;
+}
+
+/* Pour faire plus simple, on peut mettre tout ce qui concerne le body dans les mêmes accolades, comme cela a été fait pour le h1.*/
