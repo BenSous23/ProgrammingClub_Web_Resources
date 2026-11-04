@@ -46,6 +46,7 @@ ressources/
 ├── README.md ← ce fichier
 ├── liens.md ← bibliothèque de ressources par module
 ├── guide-installation.md ← installation VS Code + Git + GitHub
+├── curriculum-officiel-section-web.md ← programme officiel de la section
 ├── s1-onboarding/ ← supports et exercices de chaque séance
 ├── s2-html-css/
 ├── s3-responsive/
@@ -75,9 +76,9 @@ ressources/
 - **Bibliothèque de ressources** : [liens.md](./liens.md)
 - **Guide d'installation** : [guide-installation.md](./guide-installation.md)
 <!--
-- **Dépôt exercice S1** : [s1-hello](https://github.com/TON_USERNAME/s1-hello)
-- **Planning détaillé** : voir tableau ci-dessus
--->
+- **Dépôt exercice S1** : [s1-hello](https://github.com/TON_USERNAME/s1-hello) -->
+- **Programme officiel** : [curriculum-officiel-section-web.md](./curriculum-officiel-section-web.md)
+
 ---
 
 ## 🎯 Objectifs du semestre
@@ -122,4 +123,4 @@ Ce dépôt est mis à jour après chaque séance :
 - Mise à jour du planning si ajustements
 - Ajout des liens utilisés en séance
 
-Dernière mise à jour : **02/11/26 ; 2:16 AM**
+Dernière mise à jour : **04/11/26 ; 8:03 AM**
