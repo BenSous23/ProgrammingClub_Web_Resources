@@ -14,7 +14,7 @@ h1 {
 /* TODO 3 : change la couleur du fond */
 
 body {
-    background: lightgray ;
+    background: yellow ;
 }
 
 /* Pour faire plus simple, on peut mettre tout ce qui concerne le body dans les mêmes accolades, comme cela a été fait pour le h1.*/
